@@ -6,4 +6,5 @@ Python Libraries needed:
   3) os
 
 To run the game, simply type the following in the terminal:
+
   python3 chess.py
